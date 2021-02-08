@@ -1,0 +1,37 @@
+
+Criar o projeto:
+
+npm init
+
+
+------------------------------
+
+instalar o express:
+
+npm install express
+
+-----------------------------
+
+https://nodemon.io/
+nodemon recarregar, automaticamente.
+
+npm install --save-dev nodemon
+
+
+----------------------------
+
+
+npm install consign
+
+
+---------------------------
+
+npm install body-parser
+
+---------------------------
+
+npm install mysql
+
+--------------------------
+
+npm install moment
